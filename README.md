@@ -1,2 +1,2 @@
-# IVTgit
-https://github.com/Ondrej-Lesak/IVTgit
+# IVT
+https://github.com/Ondrej-Lesak/IVT
